@@ -1,4 +1,5 @@
-#1/bin/bash
+#!/bin/bash
+# written by Seiichiro Sugiyama
 
 echo test
 echo test
