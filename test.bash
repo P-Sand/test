@@ -1,4 +1,5 @@
-#1/bin/bash
+#!/bin/bash
+# written by P-sand
 
 echo test
 echo test
